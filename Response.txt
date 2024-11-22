@@ -1,0 +1,155 @@
+Request:
+http://localhost:2000/movies?language=en-US&page=1&primary_release_year=2024&sort_by=popularity.desc
+Response:
+[
+  {
+    "Title": "Venom: The Last Dance",
+    "Release_date": "October 22, 2024",
+    "Vote_average": 6.5,
+    "editors": [
+      "Mark Sanger"
+    ]
+  },
+  {
+    "Title": "Terrifier 3",
+    "Release_date": "October 9, 2024",
+    "Vote_average": 6.9,
+    "editors": []
+  },
+  {
+    "Title": "The Wild Robot",
+    "Release_date": "September 12, 2024",
+    "Vote_average": 8.5,
+    "editors": []
+  },
+  {
+    "Title": "Gladiator II",
+    "Release_date": "November 13, 2024",
+    "Vote_average": 6.8,
+    "editors": [
+      "Claire Simpson",
+      "Stefano De Marco",
+      "Danielle El-Hendi",
+      "Sam Restivo"
+    ]
+  },
+  {
+    "Title": "Apocalypse Z: The Beginning of the End",
+    "Release_date": "October 4, 2024",
+    "Vote_average": 6.769,
+    "editors": [
+      "Luis de la Madrid",
+      "Guillermo Lorenzana Torns",
+      "Quique Cañadas"
+    ]
+  },
+  {
+    "Title": "Levels",
+    "Release_date": "November 1, 2024",
+    "Vote_average": 5.6,
+    "editors": []
+  },
+  {
+    "Title": "Deadpool & Wolverine",
+    "Release_date": "July 24, 2024",
+    "Vote_average": 7.689,
+    "editors": []
+  },
+  {
+    "Title": "Smile 2",
+    "Release_date": "October 16, 2024",
+    "Vote_average": 6.929,
+    "editors": [
+      "Elliot Greenberg",
+      "Jason Pelham"
+    ]
+  },
+  {
+    "Title": "The Substance",
+    "Release_date": "September 7, 2024",
+    "Vote_average": 7.3,
+    "editors": [
+      "Jérôme Eltabet",
+      "Benjamin Durfort",
+      "Jimmy Zhao",
+      "Valentin Féron",
+      "Anna Devillaire"
+    ]
+  },
+  {
+    "Title": "Transformers One",
+    "Release_date": "September 11, 2024",
+    "Vote_average": 8.1,
+    "editors": []
+  },
+  {
+    "Title": "Classified",
+    "Release_date": "September 19, 2024",
+    "Vote_average": 5.6,
+    "editors": []
+  },
+  {
+    "Title": "Wicked",
+    "Release_date": "November 20, 2024",
+    "Vote_average": 7.7,
+    "editors": [
+      "Myron Kerstein",
+      "Tiago Barros"
+    ]
+  },
+  {
+    "Title": "Alien: Romulus",
+    "Release_date": "August 13, 2024",
+    "Vote_average": 7.3,
+    "editors": [
+      "Jake Roberts",
+      "Mitch Paulson"
+    ]
+  },
+  {
+    "Title": "OVERLORD: The Sacred Kingdom",
+    "Release_date": "September 20, 2024",
+    "Vote_average": 7.4,
+    "editors": []
+  },
+  {
+    "Title": "Red One",
+    "Release_date": "October 31, 2024",
+    "Vote_average": 6.6,
+    "editors": [
+      "Tara Timpone",
+      "Mark Helfrich",
+      "Steve Edwards"
+    ]
+  },
+  {
+    "Title": "Arcadian",
+    "Release_date": "April 12, 2024",
+    "Vote_average": 6.054,
+    "editors": []
+  },
+  {
+    "Title": "Despicable Me 4",
+    "Release_date": "June 20, 2024",
+    "Vote_average": 7.1,
+    "editors": []
+  },
+  {
+    "Title": "The Count of Monte-Cristo",
+    "Release_date": "June 28, 2024",
+    "Vote_average": 8.2,
+    "editors": []
+  },
+  {
+    "Title": "Inside Out 2",
+    "Release_date": "June 11, 2024",
+    "Vote_average": 7.589,
+    "editors": []
+  },
+  {
+    "Title": "Cash Out",
+    "Release_date": "April 26, 2024",
+    "Vote_average": 6.3,
+    "editors": []
+  }
+]

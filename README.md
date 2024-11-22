@@ -59,3 +59,10 @@ Note the order of the  editors names does not matter;
 ]
 ```
 Your API should be able to be run and tested by CVS Team with our own bearer token.
+--------------------------------------------------------------------------------------------
+
+API is used to fetch the movies in a particular year,Sorted in descedning order by their rating's.
+
+Axios make external calls.
+TEST Suite is written using Jest.
+
